@@ -10,6 +10,8 @@ download the deploy.sh file and replace the values in <> with your own values.
 
 open the terminal and do ./deploy.sh (if after cloning or downloading you donot change the file name otherwise use the name that you give to the file.)
 
+enter the passphrase that you gave while generating the key.
+
 And voila we are done!!! SSH connection is established no need to download putty and every time start the putty and browse the private ppk and start the putty terminal.
 
 Why walk when you can ride!!!
